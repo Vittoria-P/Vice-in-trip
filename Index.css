@@ -1,0 +1,101 @@
+header{
+    background-color: #bceff1;
+    display: flex;
+    justify-content:center;
+}
+
+
+body{
+    background-color: white;
+}
+
+section.Intro{
+    text-align: center;
+}
+
+
+section.Europe{
+    background-color: rgb(227, 219, 219);
+    padding: 15px;
+    border-radius: 25px;    
+    text-align: center;
+}
+img.europe{
+    border-radius: 10px;
+}
+
+
+section.Véhicules{
+    background-color: rgb(227, 219, 219);
+    padding: 15px;
+    border-radius: 25px; 
+    text-align: center;
+}
+img.wooddy{
+    border-radius: 10px;
+}
+img.masty{
+    border-radius: 10px;
+}
+
+
+h2.matos{
+    text-align: center;
+}
+img.inventory{
+    border-radius: 10px;
+    text-align: center;
+}
+div.list{
+    list-style-position: inside;
+}
+
+
+section.Inspiration{
+    background-color: rgb(227, 219, 219);
+    padding: 15px;
+    border-radius: 25px;     
+    text-align: center;
+}
+img.gyspy{
+    border-radius: 10px;
+}
+img.greg{
+    border-radius: 10px;
+}
+
+
+section.Voyage{
+    padding: 25px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+footer{
+    background-color: #bceff1;
+}
+div.logofoot{
+    display: flex;
+    justify-content:center;
+}
+div.linklogo{
+    display:flex;
+    justify-content: space-evenly;
+}
+img.Instagram{
+    height: 50px;
+    width: 50px;
+}
+img.Youtube{
+    height: 50px;
+    width: 50px;
+}
+img.Facebook{
+    height: 50px;
+    width: 50px;
+}
+img.Gmail{
+    height: 50px;
+    width: 50px;
+}
