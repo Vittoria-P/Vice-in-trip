@@ -20,12 +20,12 @@ This is my first project in code: I created it in 4 days in early June 2022.
 
 
 ### To be improve
-- [ ] (Rethinking the site differently)
-- [ ] (Making it responsive)
-- [ ] (Add spaces and delete '<br>')
-- [ ] (Change the font)
-- [ ] (Add a menu)
-- [ ] (Add a hover)
+- [ ] Rethinking the site differently
+- [ ] Making it responsive
+- [ ] Add spaces and delete `<br>`
+- [ ] Change the font
+- [ ] Add a menu
+- [ ] Add a hover
 
 
 
@@ -53,12 +53,12 @@ C'est mon premier projet en code : je l'ai créé en 4 jours au début juin 2022
 
 
 ### A améliorer
-- [ ] (Repenser le site autrement)
-- [ ] (Rendre responsive)
-- [ ] (Rajouter des espaces et supprimer les <br>)
-- [ ] (Changer de font)
-- [ ] (Ajouter un menu)
-- [ ] (Ajouter un hover)
+- [ ] Repenser le site autrement
+- [ ] Rendre responsive
+- [ ] Rajouter des espaces et supprimer les `<br>`
+- [ ] Changer de font
+- [ ] Ajouter un menu
+- [ ] Ajouter un hover
 
 
 ### La v2 arrivera bientôt...
